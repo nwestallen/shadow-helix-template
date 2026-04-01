@@ -1,0 +1,8 @@
+{
+ :paths ["src/main" "src/dev"]
+ :deps {
+        thheller/shadow-cljs {:mvn/version "3.3.8"}
+        com.thheller/shadow-css {:mvn/version "0.6.4"}
+        lilactown/helix {:mvn/version "0.2.2"}
+        }
+ }

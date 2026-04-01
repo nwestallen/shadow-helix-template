@@ -1,0 +1,16 @@
+{
+  "name": "shadow-helix",
+  "version": "1.0.0",
+  "description": "opinionated template for cljs web dev",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "shadow-cljs": "^3.3.8"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "react-refresh": "^0.18.0"
+  }
+}
